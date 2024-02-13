@@ -2,15 +2,16 @@
   "name": "angular-dev-pack",
   "displayName": "Angular Dev Pack",
   "description": "Essential extensions for angular development.",
+  "publisher": "ariqfraser",
   "version": "1.0.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.86.0"
   },
-  "homepage": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials",
+  "homepage": "https://github.com/ariqfraser/VSCode-Angular-Extension-Pack",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials.git"
+    "url": "https://github.com/ariqfraser/VSCode-Angular-Extension-Pack.git"
   },
   "categories": [
     "Extension Packs"
