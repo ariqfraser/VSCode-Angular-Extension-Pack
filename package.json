@@ -1,0 +1,26 @@
+{
+  "name": "angular-dev-pack",
+  "displayName": "Angular Dev Pack",
+  "description": "Essential extensions for angular development.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "homepage": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials.git"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "Angular.ng-template",
+    "formulahendry.auto-rename-tag",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "eamodio.gitlens"
+  ]
+}
