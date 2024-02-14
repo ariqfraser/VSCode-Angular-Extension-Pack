@@ -5,7 +5,8 @@
 
 <strong> Extensions in this pack:</strong>
 
-- Auto Rename Tag - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+- Angular Language Service - Provides a rich coding experience. Super useful.
+- Auto Rename Tag - Automatically rename paired HTML/XML tags, same as Visual Studio IDE does.
 - Better Comments - Create more human-friendly comments in your code.
 - GitLens - Quickly glimpse into whom, why, and when a line or code block was changed and more.
 - ESLint - Integrates ESLint into VS Code.

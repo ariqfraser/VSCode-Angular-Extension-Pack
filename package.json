@@ -1,9 +1,9 @@
 {
-  "name": "angular-dev-pack",
+  "name": "af-angular-dev-pack",
   "displayName": "Angular Dev Pack",
   "description": "Essential extensions for angular development.",
   "publisher": "ariqfraser",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.86.0"
