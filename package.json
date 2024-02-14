@@ -1,27 +1,31 @@
 {
-  "name": "af-angular-dev-pack",
-  "displayName": "Angular Dev Pack",
-  "description": "Essential extensions for angular development.",
-  "publisher": "ariqfraser",
-  "version": "1.1.0",
-  "icon": "icon.png",
-  "engines": {
-    "vscode": "^1.86.0"
-  },
-  "homepage": "https://github.com/ariqfraser/VSCode-Angular-Extension-Pack",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ariqfraser/VSCode-Angular-Extension-Pack.git"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [ 
-    "Angular.ng-template",
-    "formulahendry.auto-rename-tag",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "usernamehw.errorlens",
-    "eamodio.gitlens"
-  ]
+    "name": "af-angular-dev-pack",
+    "displayName": "Angular Dev Pack",
+    "description": "Essential extensions for angular development.",
+    "publisher": "ariqfraser",
+    "version": "1.2.1",
+    "icon": "icon.png",
+    "scripts": {
+      "deploy": "vsce package && vsce publish"
+    },
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "homepage": "https://github.com/ariqfraser/VSCode-Angular-Extension-Pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ariqfraser/VSCode-Angular-Extension-Pack.git"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "Angular.ng-template",
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "usernamehw.errorlens",
+        "eamodio.gitlens"
+    ]
 }
